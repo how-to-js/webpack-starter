@@ -1,0 +1,25 @@
+{
+  "name": "webpack-starter",
+  "version": "1.0.0",
+  "description": "Code generator for simple webpack application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/how-to-js/webpack-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/how-to-js/webpack-starter/issues"
+  },
+  "homepage": "https://github.com/how-to-js/webpack-starter#readme",
+  "devDependencies": {
+    "webpack": "^5.51.1",
+    "webpack-cli": "^4.8.0"
+  }
+}
